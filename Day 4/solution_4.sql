@@ -1,3 +1,4 @@
+--Dropping the table 
 -- drop table if exists Q4_data;
 -- create table Q4_data
 -- (
